@@ -4,7 +4,7 @@
 
 ### 👋 Hi there, I'm Shreyas 
 
-Motivated Data Engineer with a track record of 2+ years in Power BI, SQL, Databricks & Python.  
+Data Engineer with a track record of 2+ years in Power BI, SQL, Databricks & Python.  
 I thrive in greenfield environments, adapting quickly to evolving needs with stakeholders.  
 Seeking to deepen my technical skills in a modern, cloud-based data environment and leverage my expertise to contribute to meaningful business decisions.
 
