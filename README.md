@@ -1,3 +1,7 @@
+<img src="https://i.redd.it/abcpef5ajpfe1.gif" width="100%" alt="tech cute banner" />
+
+
+
 ### 👋 Hi there, I'm Shreyas 
 
 Motivated Data Engineer with a track record of 2+ years in Power BI, SQL, Databricks & Python.  
