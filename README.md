@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/abcpef5ajpfe1.gif" width="100%" alt="tech cute banner" />
+<img src="https://64.media.tumblr.com/0901013c2121ffe2b48a755080bf4523/c606e4a7979684c2-78/s1280x1920/e668408582fde369ac25cfa2fbec4451d66f9673.gif" width="100%" alt="tech cute banner" />
 
 
 
