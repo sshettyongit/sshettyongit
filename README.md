@@ -2,33 +2,38 @@
 
 
 
-### 👋 Hi there, I'm Shreyas 
+### 👋 Hey there, I'm Shreyas!
 
-Data Engineer with a track record of 2+ years in Power BI, SQL, Databricks & Python.  
-I thrive in greenfield environments, adapting quickly to evolving needs with stakeholders.  
-Seeking to deepen my technical skills in a modern, cloud-based data environment and leverage my expertise to contribute to meaningful business decisions.
+I'm a Data Engineer who knows their way around Power BI, SQL, Databricks & Python — and around a bar counter too 🍻.  
+With 2+ years of experience turning messy data into meaningful insights, I thrive in greenfield environments where every day brings something new (preferably not on fire 🔥).
+
+Currently on the lookout for new opportunities where I can keep learning, keep building, and maybe even keep caffeinating responsibly ☕.
 
 ---
 
 ### 🧠 About Me:
 
-🔭 I’m currently looking for opportunities  
-  Open to roles where I can drive impact with data, especially in cloud-native ecosystems and data engineering/analytics.
+- 🔭 **Currently looking for:**  
+  Exciting roles in cloud-native data engineering and analytics. Bonus points if the team likes memes.
 
-👯 I’m looking to collaborate on  
-  Projects involving data pipeline design, cloud data platforms (Azure preferred), or anything blending analytics with real-world impact.
+- 👯 **Would love to collaborate on:**  
+  Building data pipelines, Azure cloud projects, or anything where data gets a much-needed glow-up.
 
-🤝 I’m looking for help with  
-  Exploring best practices in data architecture, data governance in cloud environments, and contributing to open-source data tools.
+- 🤝 **Could use help with:**  
+  Best practices in cloud data architecture, and contributing to open-source data projects without accidentally breaking things.
 
-🌱 I’m currently learning  
-  Advanced data orchestration, CI/CD for data workflows, and building scalable analytics solutions using Azure Synapse, Data Factory, and Delta Lake.
+- 🌱 **Currently learning:**  
+  How to orchestrate data like a maestro 🎻 — diving into Azure Synapse, Data Factory, Delta Lake, and better CI/CD workflows.
 
-💬 Ask me about  
-  Power BI, SQL tuning, Python for data processing, ETL development, Databricks, or debugging a failing pipeline at 2 AM 😅
+- 💬 **Ask me about:**  
+  Power BI dashboards, SQL optimization tricks, fixing broken ETL pipelines, Databricks chaos management, or how to serve 50 cocktails in one night without crying.
 
-⚡ Fun fact  
-  I’ve balanced debugging revenue pipelines for Coca-Cola with bartending at night — cheers to versatility! 🍹💻
+- ⚡ **Fun fact:**  
+  I once handled revenue-critical data for Coca-Cola by day and mixed mojitos by night. Career highlight: no spills in either field (mostly).
+
+---
+
+
 
 ---
 ## 🌐 Socials:
