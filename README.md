@@ -21,7 +21,7 @@ Currently on the lookout for new opportunities where I can keep learning, keep b
   Exciting roles in cloud-native data engineering and analytics. Bonus points if the team likes memes.
 
 - 👯 **Would love to collaborate on:**  
-  Building data pipelines, Azure cloud projects, or anything where data gets a much-needed glow-up.
+  Building something for future generations and supporting the sustainable goals I care about. .
 
 - 🤝 **Could use help with:**  
   Best practices in cloud data architecture, and contributing to open-source data projects without accidentally breaking things.
