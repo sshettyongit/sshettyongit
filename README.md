@@ -4,8 +4,8 @@
 
 ### 👋 Hey there, I'm Shreyas!
 
-I'm a Data Engineer who knows their way around Power BI, SQL, Databricks & Python — and around a bar counter too 🍻.  
-With 2+ years of experience turning messy data into meaningful insights, I thrive in greenfield environments where every day brings something new (preferably not on fire 🔥).
+I'm a Data geek(not literally, but yeah) who knows their way around Power BI, SQL, Databricks & Python — and around a bar counter too 🍻.  
+With 2+ years of experience turning messy data into meaningful insights, I thrive in greenfield environments where every day brings something new (preferably not on fire).
 
 Currently on the lookout for new opportunities where I can keep learning, keep building, and maybe even keep caffeinating responsibly ☕.
 
